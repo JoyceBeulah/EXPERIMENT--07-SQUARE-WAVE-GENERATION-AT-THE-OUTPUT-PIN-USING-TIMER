@@ -358,8 +358,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
+## FOR PULSE AT 500
 ![image](https://github.com/JoyceBeulah/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118343698/d4c198e8-912d-4928-a2bc-87874a096212)
+## FOR PULSE AT 700
 ![image](https://github.com/JoyceBeulah/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118343698/db0c65e0-4a3d-4366-8438-1c9a0ddab65f)
+## FOR PULSE AT 900
 ![image](https://github.com/JoyceBeulah/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118343698/5cb25d21-88a6-4a7e-b153-090c86a225e6)
 
 
@@ -373,27 +376,27 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## FOR PULSE AT 500
 
-Total Time Period=41ms
+Total Time Period=3ms
 
-TON = 2ms
+TON = 1.5ms
 
-TOFF= 2ms
+TOFF= 1.5ms
 
-TOTAL TIME =4
+TOTAL TIME =3
 
 FREQUENCY = 1/(TOTAL TIME)
 
-=1/(410^-3)
+=1/(3.0^-3)
 
-=250Hz
+=333.3Hz
 
 ## FOR PULSE AT 700
 
 Total Time Period=3.11ms
 
-TON = 2.17ms
+TON = 1.5ms
 
-TOFF=0.93ms
+TOFF=1.6ms
 
 TOTAL TIME =3.1
 
@@ -417,7 +420,7 @@ FREQUENCY = 1/(TOTAL TIME)
 
 =1/(3.210^-3)
 
-=312.5Hz
+=311.5Hz
 
 
 ## Result :
